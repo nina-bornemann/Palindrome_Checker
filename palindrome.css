@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(62, 62, 85);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+}
+
+.container {
+  background-color: white;
+  border: solid 2px rebeccapurple;
+  border-radius: 20px;
+  width: 350px;
+}
+
+#text-input {
+  border: 0px;
+  border-bottom: solid 1.5px rebeccapurple;
+}
+
+#check-btn {
+  color: white;
+  background-color: rebeccapurple;
+  border: solid 1px rebeccapurple;
+  border-radius: 20px;
+}
+
+.info-text {
+  background-color: rgb(160, 94, 160);
+  color: white;
+  padding: 5px;
+  margin: 20px 0px ;
+  border-radius: 20px;
+  width: 350px;
+}
